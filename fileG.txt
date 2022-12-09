@@ -1,1 +1,2 @@
-I hate snow
+<<<<<<< HEAD
+I hate snow,this is it , Im going to the store
